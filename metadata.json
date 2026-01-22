@@ -1,0 +1,8 @@
+{
+  "name": "Lugality - AI-Driven Legal Workflow Platform",
+  "description": "A high-fidelity recreation of the Lugality legal tech platform, featuring advanced workflow management, career boards, newsroom, and pricing modules.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
